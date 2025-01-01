@@ -7,4 +7,12 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 `brew install neovim`
 
 ## Use
+`rm -rf ~/.config/nvim`
+
+`rm -rf ~/.local/share/nvim`
+
+`rm -rf ~/.local/state/nvim`
+
+`rm -rf ~/.cache/nvim`
+
 `git clone https://github.com/HalimUzodike/LazyVim.git ~/.config/nvim`
